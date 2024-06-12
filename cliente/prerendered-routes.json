@@ -1,0 +1,8 @@
+{
+  "routes": [
+    "/configuracion",
+    "/home",
+    "/home/recibos",
+    "/login"
+  ]
+}
